@@ -1,0 +1,192 @@
+Date: [2024-05-07 14:28:07]  Log: Running tests...
+Date: [2024-05-07 14:28:07]  Log: All tests passed!
+Date: [2024-05-07 14:28:41]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 14:28:43]  Log: Running tests...
+Date: [2024-05-07 14:28:43]  Log: All tests passed!
+Date: [2024-05-07 14:29:37]  Log: Running tests...
+Date: [2024-05-07 14:29:37]  Log: All tests passed!
+Date: [2024-05-07 14:29:47]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 14:29:50]  Log: Running tests...
+Date: [2024-05-07 14:29:50]  Log: All tests passed!Date: [2024-05-07 18:09:44]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 22:56:42]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 22:56:47]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 22:56:49]  Log: Executable integrity is checked!
+Date: [2024-05-07 22:56:49]  Log: File ./kek.txt encrypting...
+Date: [2024-05-07 22:56:49]  Log: Ecrypted to: f0eda851610e5be71c7220307e6fbcb7.ENC
+Date: [2024-05-07 22:56:49]  Log: Executable integrity is checked!
+Date: [2024-05-07 22:57:00]  Log: Executable integrity is broken, aborting!
+Date: [2024-05-07 22:57:03]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 22:57:05]  Log: Executable integrity is checked!
+Date: [2024-05-07 22:57:05]  Log: File ./kek.txt encrypting...
+Date: [2024-05-07 22:57:05]  Log: Ecrypted to: c13a9d7c94a9dd77fe510494ce5299b1.ENC
+Date: [2024-05-07 22:57:05]  Log: Executable integrity is checked!
+Date: [2024-05-07 22:57:35]  Log: Executable integrity is broken, aborting!
+Date: [2024-05-07 22:57:37]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-07 22:57:38]  Log: Executable integrity is checked!
+Date: [2024-05-07 22:57:38]  Log: File ./kek.txt encrypting...
+Date: [2024-05-07 22:57:38]  Log: Ecrypted to: c2157609ff413ae473ae5b173f02a9f2.ENC
+Date: [2024-05-07 22:57:38]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:00]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 21:33:03]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:03]  Log: Running tests...
+Date: [2024-05-16 21:33:03]  Log: All tests passed!
+Date: [2024-05-16 21:33:03]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:33]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:33]  Log: Running tests...
+Date: [2024-05-16 21:33:33]  Log: All tests passed!
+Date: [2024-05-16 21:33:33]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:33:51]  Log: File ./kek.txt encrypting...
+Date: [2024-05-16 21:33:51]  Log: Ecrypted to: 7a095a17ef20f639ca8f26f79648afac.ENC
+Date: [2024-05-16 21:33:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:34:09]  Log: Executable integrity is checked!
+Date: [2024-05-16 21:34:09]  Log: File ./7a095a17ef20f639ca8f26f79648afac.ENC decrypting...
+Date: [2024-05-16 21:34:09]  Log: Decrypted to: 06b2cd9c5745090275dd5de6db6b034f.DEC
+Date: [2024-05-16 21:34:09]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:12:21]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:12:25]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:12:47]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:12:53]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:12:53]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:12:53]  Log: Ecrypted to: de236a66a085f548b17ed5e89dd0a295.ENC
+Date: [2024-05-16 22:12:53]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:13:08]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:13:08]  Log: File de236a66a085f548b17ed5e89dd0a295.ENC encrypting...
+Date: [2024-05-16 22:13:08]  Log: Ecrypted to: 0d8267068adfebe29b359a759a33da81.ENC
+Date: [2024-05-16 22:13:08]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:14:46]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:14:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:14:51]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:14:51]  Log: Ecrypted to: e3aa492013d355ad657566215a4c52fb.ENC
+Date: [2024-05-16 22:14:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:15:13]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:15:16]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:15:16]  Log: File e3aa492013d355ad657566215a4c52fb.ENC encrypting...
+Date: [2024-05-16 22:15:16]  Log: Ecrypted to: 57aabeeefa11de01a089ba94958bfc84.ENC
+Date: [2024-05-16 22:15:16]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:15:57]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:15:57]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:15:57]  Log: Ecrypted to: db971718c0868e1903161080b18032f7.ENC
+Date: [2024-05-16 22:15:57]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:16:10]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:16:10]  Log: File db971718c0868e1903161080b18032f7.ENC decrypting...
+Date: [2024-05-16 22:16:10]  Log: Decrypted to: b50ef94eb5c95976cf8f5a842c270176.DEC
+Date: [2024-05-16 22:16:10]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:17:16]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:17:16]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:17:16]  Log: Ecrypted to: 997451fc515701919ccaf7f5100e106a.ENC
+Date: [2024-05-16 22:17:16]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:17:25]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:17:25]  Log: File 997451fc515701919ccaf7f5100e106a.ENC decrypting...
+Date: [2024-05-16 22:17:25]  Log: Decrypted to: 4fee0cbde6ba06276003c510404e8ca7.DEC
+Date: [2024-05-16 22:17:25]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:18:13]  Log: Executable integrity is broken, aborting!
+Date: [2024-05-16 22:18:15]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:18:18]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:18:18]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:18:18]  Log: Ecrypted to: b0f74d5948ea1a3c987bf09b6ee5a180.ENC
+Date: [2024-05-16 22:18:18]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:18:32]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:18:32]  Log: File b0f74d5948ea1a3c987bf09b6ee5a180.ENC decrypting...
+Date: [2024-05-16 22:18:32]  Log: Decrypted to: ce050af76afcab2187d2d89c4e514980.DEC
+Date: [2024-05-16 22:18:32]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:21:27]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:21:29]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:21:29]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:21:29]  Log: Ecrypted to: 32e8db07a763841c024e26b31601525d.ENC
+Date: [2024-05-16 22:21:29]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:21:46]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:21:46]  Log: File 32e8db07a763841c024e26b31601525d.ENC decrypting...
+Date: [2024-05-16 22:21:46]  Log: Decrypted to: c8c7f49163a2d0d0d29e60cdd3eaf01c.DEC
+Date: [2024-05-16 22:21:46]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:22:45]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:22:45]  Log: File 32e8db07a763841c024e26b31601525d.ENC decrypting...
+Date: [2024-05-16 22:22:45]  Log: Decrypted to: 90c4adf6c468483d8bbbaefe1fa4ab20.DEC
+Date: [2024-05-16 22:22:45]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:23:01]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:23:03]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:23:03]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:23:47]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:23:49]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:23:49]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:23:49]  Log: Ecrypted to: 0940f4c31590f0056b479ed406f18db1.ENC
+Date: [2024-05-16 22:23:49]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:24:05]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:24:05]  Log: File 0940f4c31590f0056b479ed406f18db1.ENC decrypting...
+Date: [2024-05-16 22:24:05]  Log: Decrypted to: 66f3a7716fb9358ce626ca76256e4a0d.DEC
+Date: [2024-05-16 22:24:05]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:33:27]  Log: Executable integrity is broken, aborting!
+Date: [2024-05-16 22:33:29]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:33:30]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:33:30]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:33:30]  Log: Ecrypted to: 41180023172999d776073d1bf9381fe9.ENC
+Date: [2024-05-16 22:33:30]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:33:42]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:33:42]  Log: File 41180023172999d776073d1bf9381fe9.ENC decrypting...
+Date: [2024-05-16 22:33:42]  Log: Decrypted to: be6a25366eb95bf3bfb618912fbde9a5.DEC
+Date: [2024-05-16 22:33:42]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:34:22]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:34:24]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:34:24]  Log: File kek.txt encrypting...
+Date: [2024-05-16 22:34:24]  Log: Ecrypted to: e33bf6167bff8c0696dd7a7913bed1eb.ENC
+Date: [2024-05-16 22:34:24]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:34:34]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:34:34]  Log: File e33bf6167bff8c0696dd7a7913bed1eb.ENC decrypting...
+Date: [2024-05-16 22:34:34]  Log: Decrypted to: d494b5efa7749d1133bd54ce0fe4972b.DEC
+Date: [2024-05-16 22:34:34]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:38]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:38]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:38]  Log: File pic.jpg encrypting...
+Date: [2024-05-16 22:36:41]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:44]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:47]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:50]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:53]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:56]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:36:59]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:02]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:05]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:08]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:11]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:14]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:15]  Log: Ecrypted to: 453c9b77eab1e0100c58856c4cd423c6.ENC
+Date: [2024-05-16 22:37:48]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:48]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:49]  Log: File 453c9b77eab1e0100c58856c4cd423c6.ENC decrypting...
+Date: [2024-05-16 22:37:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:54]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:37:57]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:00]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:03]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:06]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:09]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:12]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:15]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:38:16]  Log: Decrypted to: 2e5b6fc7fc5fb1ac4abd143265b8b0cf.DEC
+Date: [2024-05-16 22:41:43]  Log: Executable file checksum was written to ./checksum.dat!
+Date: [2024-05-16 22:41:45]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:41:45]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:41:45]  Log: File pic.jpg encrypting...
+Date: [2024-05-16 22:41:48]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:41:51]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:41:54]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:41:57]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:00]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:03]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:06]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:09]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:12]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:15]  Log: Ecrypted to: 6c981f8d416feb877b128cd5a3343781.ENC
+Date: [2024-05-16 22:42:26]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:26]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:26]  Log: File 6c981f8d416feb877b128cd5a3343781.ENC decrypting...
+Date: [2024-05-16 22:42:29]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:32]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:35]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:38]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:41]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:44]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:47]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:50]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:53]  Log: Executable integrity is checked!
+Date: [2024-05-16 22:42:54]  Log: Decrypted to: 86323b87e37744c40894f8a1fc9d568d.DEC
